@@ -1,0 +1,82 @@
+D:/visual project/DVDRentalShop/DVDRentalShop/bin/Debug/DVDRentalShop.exe.config
+D:/visual project/DVDRentalShop/DVDRentalShop/bin/Debug/DVDRentalShop.exe
+D:/visual project/DVDRentalShop/DVDRentalShop/bin/Debug/DVDRentalShop.pdb
+D:/visual project/DVDRentalShop/DVDRentalShop/bin/Debug/Microsoft.Bcl.AsyncInterfaces.dll
+D:/visual project/DVDRentalShop/DVDRentalShop/bin/Debug/Microsoft.Bcl.HashCode.dll
+D:/visual project/DVDRentalShop/DVDRentalShop/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:/visual project/DVDRentalShop/DVDRentalShop/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:/visual project/DVDRentalShop/DVDRentalShop/bin/Debug/Npgsql.dll
+D:/visual project/DVDRentalShop/DVDRentalShop/bin/Debug/System.Buffers.dll
+D:/visual project/DVDRentalShop/DVDRentalShop/bin/Debug/System.Collections.Immutable.dll
+D:/visual project/DVDRentalShop/DVDRentalShop/bin/Debug/System.Diagnostics.DiagnosticSource.dll
+D:/visual project/DVDRentalShop/DVDRentalShop/bin/Debug/System.Memory.dll
+D:/visual project/DVDRentalShop/DVDRentalShop/bin/Debug/System.Numerics.Vectors.dll
+D:/visual project/DVDRentalShop/DVDRentalShop/bin/Debug/System.Runtime.CompilerServices.Unsafe.dll
+D:/visual project/DVDRentalShop/DVDRentalShop/bin/Debug/System.Text.Encodings.Web.dll
+D:/visual project/DVDRentalShop/DVDRentalShop/bin/Debug/System.Text.Json.dll
+D:/visual project/DVDRentalShop/DVDRentalShop/bin/Debug/System.Threading.Channels.dll
+D:/visual project/DVDRentalShop/DVDRentalShop/bin/Debug/System.Threading.Tasks.Extensions.dll
+D:/visual project/DVDRentalShop/DVDRentalShop/bin/Debug/System.ValueTuple.dll
+D:/visual project/DVDRentalShop/DVDRentalShop/bin/Debug/Microsoft.Bcl.AsyncInterfaces.xml
+D:/visual project/DVDRentalShop/DVDRentalShop/bin/Debug/Microsoft.Bcl.HashCode.xml
+D:/visual project/DVDRentalShop/DVDRentalShop/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:/visual project/DVDRentalShop/DVDRentalShop/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:/visual project/DVDRentalShop/DVDRentalShop/bin/Debug/Npgsql.xml
+D:/visual project/DVDRentalShop/DVDRentalShop/bin/Debug/System.Buffers.xml
+D:/visual project/DVDRentalShop/DVDRentalShop/bin/Debug/System.Collections.Immutable.xml
+D:/visual project/DVDRentalShop/DVDRentalShop/bin/Debug/System.Diagnostics.DiagnosticSource.xml
+D:/visual project/DVDRentalShop/DVDRentalShop/bin/Debug/System.Memory.xml
+D:/visual project/DVDRentalShop/DVDRentalShop/bin/Debug/System.Numerics.Vectors.xml
+D:/visual project/DVDRentalShop/DVDRentalShop/bin/Debug/System.Runtime.CompilerServices.Unsafe.xml
+D:/visual project/DVDRentalShop/DVDRentalShop/bin/Debug/System.Text.Encodings.Web.xml
+D:/visual project/DVDRentalShop/DVDRentalShop/bin/Debug/System.Text.Json.xml
+D:/visual project/DVDRentalShop/DVDRentalShop/bin/Debug/System.Threading.Channels.xml
+D:/visual project/DVDRentalShop/DVDRentalShop/bin/Debug/System.Threading.Tasks.Extensions.xml
+D:/visual project/DVDRentalShop/DVDRentalShop/bin/Debug/System.ValueTuple.xml
+D:/visual project/DVDRentalShop/DVDRentalShop/obj/Debug/DVDRentalShop.csproj.AssemblyReference.cache
+D:/visual project/DVDRentalShop/DVDRentalShop/obj/Debug/DVDRentalShop.csproj.SuggestedBindingRedirects.cache
+D:/visual project/DVDRentalShop/DVDRentalShop/obj/Debug/DVDRentalShop.csproj.CoreCompileInputs.cache
+D:/visual project/DVDRentalShop/DVDRentalShop/obj/Debug/DVDRentalShop.csproj.CopyComplete
+D:/visual project/DVDRentalShop/DVDRentalShop/obj/Debug/DVDRentalShop.exe
+D:/visual project/DVDRentalShop/DVDRentalShop/obj/Debug/DVDRentalShop.pdb
+/Users/idrisulu/Desktop/DVDRentalShop/DVDRentalShop/bin/Debug/DVDRentalShop.exe.config
+/Users/idrisulu/Desktop/DVDRentalShop/DVDRentalShop/bin/Debug/DVDRentalShop.exe
+/Users/idrisulu/Desktop/DVDRentalShop/DVDRentalShop/bin/Debug/DVDRentalShop.pdb
+/Users/idrisulu/Desktop/DVDRentalShop/DVDRentalShop/bin/Debug/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/idrisulu/Desktop/DVDRentalShop/DVDRentalShop/bin/Debug/Microsoft.Bcl.HashCode.dll
+/Users/idrisulu/Desktop/DVDRentalShop/DVDRentalShop/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+/Users/idrisulu/Desktop/DVDRentalShop/DVDRentalShop/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+/Users/idrisulu/Desktop/DVDRentalShop/DVDRentalShop/bin/Debug/Npgsql.dll
+/Users/idrisulu/Desktop/DVDRentalShop/DVDRentalShop/bin/Debug/System.Buffers.dll
+/Users/idrisulu/Desktop/DVDRentalShop/DVDRentalShop/bin/Debug/System.Collections.Immutable.dll
+/Users/idrisulu/Desktop/DVDRentalShop/DVDRentalShop/bin/Debug/System.Diagnostics.DiagnosticSource.dll
+/Users/idrisulu/Desktop/DVDRentalShop/DVDRentalShop/bin/Debug/System.Memory.dll
+/Users/idrisulu/Desktop/DVDRentalShop/DVDRentalShop/bin/Debug/System.Numerics.Vectors.dll
+/Users/idrisulu/Desktop/DVDRentalShop/DVDRentalShop/bin/Debug/System.Runtime.CompilerServices.Unsafe.dll
+/Users/idrisulu/Desktop/DVDRentalShop/DVDRentalShop/bin/Debug/System.Text.Encodings.Web.dll
+/Users/idrisulu/Desktop/DVDRentalShop/DVDRentalShop/bin/Debug/System.Text.Json.dll
+/Users/idrisulu/Desktop/DVDRentalShop/DVDRentalShop/bin/Debug/System.Threading.Channels.dll
+/Users/idrisulu/Desktop/DVDRentalShop/DVDRentalShop/bin/Debug/System.Threading.Tasks.Extensions.dll
+/Users/idrisulu/Desktop/DVDRentalShop/DVDRentalShop/bin/Debug/System.ValueTuple.dll
+/Users/idrisulu/Desktop/DVDRentalShop/DVDRentalShop/bin/Debug/Microsoft.Bcl.AsyncInterfaces.xml
+/Users/idrisulu/Desktop/DVDRentalShop/DVDRentalShop/bin/Debug/Microsoft.Bcl.HashCode.xml
+/Users/idrisulu/Desktop/DVDRentalShop/DVDRentalShop/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+/Users/idrisulu/Desktop/DVDRentalShop/DVDRentalShop/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+/Users/idrisulu/Desktop/DVDRentalShop/DVDRentalShop/bin/Debug/Npgsql.xml
+/Users/idrisulu/Desktop/DVDRentalShop/DVDRentalShop/bin/Debug/System.Buffers.xml
+/Users/idrisulu/Desktop/DVDRentalShop/DVDRentalShop/bin/Debug/System.Collections.Immutable.xml
+/Users/idrisulu/Desktop/DVDRentalShop/DVDRentalShop/bin/Debug/System.Diagnostics.DiagnosticSource.xml
+/Users/idrisulu/Desktop/DVDRentalShop/DVDRentalShop/bin/Debug/System.Memory.xml
+/Users/idrisulu/Desktop/DVDRentalShop/DVDRentalShop/bin/Debug/System.Numerics.Vectors.xml
+/Users/idrisulu/Desktop/DVDRentalShop/DVDRentalShop/bin/Debug/System.Runtime.CompilerServices.Unsafe.xml
+/Users/idrisulu/Desktop/DVDRentalShop/DVDRentalShop/bin/Debug/System.Text.Encodings.Web.xml
+/Users/idrisulu/Desktop/DVDRentalShop/DVDRentalShop/bin/Debug/System.Text.Json.xml
+/Users/idrisulu/Desktop/DVDRentalShop/DVDRentalShop/bin/Debug/System.Threading.Channels.xml
+/Users/idrisulu/Desktop/DVDRentalShop/DVDRentalShop/bin/Debug/System.Threading.Tasks.Extensions.xml
+/Users/idrisulu/Desktop/DVDRentalShop/DVDRentalShop/bin/Debug/System.ValueTuple.xml
+/Users/idrisulu/Desktop/DVDRentalShop/DVDRentalShop/obj/Debug/DVDRentalShop.csproj.AssemblyReference.cache
+/Users/idrisulu/Desktop/DVDRentalShop/DVDRentalShop/obj/Debug/DVDRentalShop.csproj.CoreCompileInputs.cache
+/Users/idrisulu/Desktop/DVDRentalShop/DVDRentalShop/obj/Debug/DVDRentalShop.csproj.CopyComplete
+/Users/idrisulu/Desktop/DVDRentalShop/DVDRentalShop/obj/Debug/DVDRentalShop.exe
+/Users/idrisulu/Desktop/DVDRentalShop/DVDRentalShop/obj/Debug/DVDRentalShop.pdb
+/Users/idrisulu/Desktop/DVDRentalShop/DVDRentalShop/obj/Debug/DVDRentalShop.exe.config
